@@ -1,0 +1,12 @@
+.item-list{
+    display: grid;
+    grid-template-columns: 40% 30% 30%;
+    padding: 4%;
+
+}
+#edit{
+    margin-left: 41%;
+}
+#delete{
+    margin-left: 5%;
+}
